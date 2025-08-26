@@ -1,0 +1,14 @@
+D:\Studia\Snake\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.exe
+D:\Studia\Snake\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.deps.json
+D:\Studia\Snake\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.runtimeconfig.json
+D:\Studia\Snake\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.dll
+D:\Studia\Snake\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.pdb
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfoInputs.cache
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfo.cs
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.dll
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\refint\SnakeGame.dll
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.pdb
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.genruntimeconfig.cache
+D:\Studia\Snake\SnakeGame\SnakeGame\obj\Debug\net8.0\ref\SnakeGame.dll
