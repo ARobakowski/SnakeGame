@@ -1,4 +1,8 @@
-<img width="928" height="614" alt="image" src="https://github.com/user-attachments/assets/6b3840cc-9b0f-4246-a13f-cabae4b0d683" />
+SnakeGame (C# Console)
+Prosta gra Snake uruchamiana w konsoli, przygotowana jako projekt zespołowy z praktyką pracy na gałęziach i zgłoszeniach zmian.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/608173ae-52fe-4373-a5e4-646b508e2723" />
+
 
 Uruchomienie
 Wymagane: .NET SDK 6 lub nowszy.
