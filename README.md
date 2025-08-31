@@ -1,7 +1,8 @@
 SnakeGame (C# Console)
 Prosta gra Snake uruchamiana w konsoli, przygotowana jako projekt zespołowy z praktyką pracy na gałęziach i zgłoszeniach zmian.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/608173ae-52fe-4373-a5e4-646b508e2723" />
+<img width="974" height="507" alt="image" src="https://github.com/user-attachments/assets/b303e33a-5ae2-4cc2-89a6-577e654df91b" />
+
 
 
 Uruchomienie
